@@ -41,6 +41,8 @@ The analysis was performed to address reviewer concerns regarding the biological
 
 * Removed genes with zero counts across all samples
 * Retained genes with mean expression ≥ 10 counts
+* Genes were retained only if at least 50% of samples within **at least one tissue group** (Meckel, condylar, costal, or brain) showed non-zero expression  
+This multi-step filtering approach reduces noise from lowly expressed and sparse genes while preserving biologically relevant signals.
 
 **Processing:**
 
