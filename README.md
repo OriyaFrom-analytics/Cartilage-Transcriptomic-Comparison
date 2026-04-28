@@ -6,7 +6,7 @@
 
 ## 📊 Example Result
 
-![Correlation Plot](results/correlation_plot.png)
+![Correlation](Results/Correlation.png)
 
 ---
 
