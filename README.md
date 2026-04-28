@@ -10,7 +10,7 @@
 
 ---
 
-## 🔥 Transcriptomic Similarity (Heatmap)
+## 🔥 Hierarchical Clustering (Heatmap)
 
 ![Heatmap](Results/Heatmap.png)
 
