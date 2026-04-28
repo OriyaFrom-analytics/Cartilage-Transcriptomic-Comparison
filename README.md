@@ -111,8 +111,8 @@ Costal cartilage shows higher transcriptional similarity to craniofacial cartila
 
 * `scripts/` – data processing and analysis scripts
 * `notebooks/` – exploratory analysis (Jupyter notebooks)
-* `results/` – figures and plots
-* `data/` – processed datasets (no raw sequencing files)
+* `Results/` – figures and plots
+* `DATA/` – processed datasets 
 
 ---
 
