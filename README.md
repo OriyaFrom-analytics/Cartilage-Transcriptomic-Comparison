@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 Example Result
+## 📊 Result- Correlation
 
 ![Correlation](Results/Correlation.png)
 
