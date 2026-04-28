@@ -4,19 +4,19 @@
 
 ---
 
-## 📊 Result- Correlation
+## Result- Correlation
 
 ![Correlation](Results/Correlation.png)
 
 ---
 
-## 🔥 Hierarchical Clustering (Heatmap)
+## Hierarchical Clustering (Heatmap)
 
 ![Heatmap](Results/Heatmap.png)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project evaluates transcriptional similarity between costal cartilage and craniofacial cartilage tissues in embryonic wild-type (WT) female mice using RNA-seq data.
 
@@ -24,7 +24,7 @@ The analysis was performed to address reviewer concerns regarding the biological
 
 ---
 
-## 🧬 Data Sources
+## Data Sources
 
 * GSE121780 – Meckel’s cartilage & mandibular condylar cartilage (E16.5, WT female mice)
 * GSE315769 – Brain tissue (E18, WT female mice)
@@ -32,7 +32,7 @@ The analysis was performed to address reviewer concerns regarding the biological
 
 ---
 
-## ⚙️ Methods
+## Methods
 
 * Gene-level raw count matrices were used
 * Only genes shared across all datasets were retained
@@ -55,7 +55,7 @@ This multi-step filtering approach reduces noise from lowly expressed and sparse
 
 ---
 
-## 📈 Results
+## Results
 
 * Meckel vs. costal cartilage: **r = 0.76**
 * Condylar vs. costal cartilage: **r = 0.72**
@@ -63,7 +63,7 @@ This multi-step filtering approach reduces noise from lowly expressed and sparse
 
 ---
 
-## 📊 Quantitative Comparison
+## Quantitative Comparison
 
 | Comparison         | Pearson r | R²   | RMSE | Slope | Intercept |
 | ------------------ | --------- | ---- | ---- | ----- | --------- |
@@ -75,19 +75,19 @@ These metrics further support stronger linear agreement between costal and crani
 
 ---
 
-## 🧠 Interpretation
+## Interpretation
 
 Costal cartilage exhibits not only high correlation but also consistent linear scaling (slope ~0.7–0.75) with craniofacial cartilage, suggesting preserved transcriptional relationships across tissues.
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 Costal cartilage shows higher transcriptional similarity to craniofacial cartilage than to brain tissue, supporting its relevance as a comparative model in embryonic studies.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python
 * pandas
@@ -97,7 +97,7 @@ Costal cartilage shows higher transcriptional similarity to craniofacial cartila
 
 ---
 
-## 🚀 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 * RNA-seq data processing
 * Data filtering and normalization
@@ -107,7 +107,7 @@ Costal cartilage shows higher transcriptional similarity to craniofacial cartila
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 * `scripts/` – data processing and analysis scripts
 * `notebooks/` – exploratory analysis (Jupyter notebooks)
