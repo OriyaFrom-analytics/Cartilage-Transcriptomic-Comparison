@@ -12,7 +12,7 @@
 
 ## 🔥 Transcriptomic Similarity (Heatmap)
 
-![Heatmap](results/heatmap.png)
+![Heatmap](Results/Heatmap.png)
 
 ---
 
